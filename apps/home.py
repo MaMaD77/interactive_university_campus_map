@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def app():
-    with open('C:/Users/muham/OneDrive/Desktop/python/interactive_university_campus_map/assets/css/all.css') as f:
+    with open('assets/css/all.css') as f:
         css = f.read()
     st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 
@@ -15,10 +15,10 @@ def app():
 
     fg = folium.FeatureGroup(name="State bounds")
     fg.add_child(folium.features.GeoJson(
-        "C:/Users/muham/OneDrive/Desktop/python/interactive_university_campus_map/assets/maps/home.geojson"))
+        "assets/maps/home.geojson"))
 
     datas = pd.read_csv(
-        "C:/Users/muham/OneDrive/Desktop/python/interactive_university_campus_map/assets/data/home.csv")
+        "assets/data/home.csv")
 
     for data in datas.itertuples():
         fg.add_child(

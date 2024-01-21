@@ -1,0 +1,7 @@
+pandas
+folium
+streamlit_folium
+leafmap
+streamlit
+streamlit-option-menu
+
