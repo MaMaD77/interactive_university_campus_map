@@ -79,4 +79,4 @@ def app():
 
         for department in selectedData['departments']:
             st.header(department['name'], divider='rainbow')
-            st.markdown("*Streamlit* is **really** ***cool***.")
+            st.markdown(department['description'])
