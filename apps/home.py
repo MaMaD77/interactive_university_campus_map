@@ -66,8 +66,6 @@ def app():
         index = out['last_object_clicked']
         selectedData = get_value_by_lat_lng(
             dataset.datas, index['lat'], index['lng'])
-        # imageindex = selectedData[0]
-        # img_1 = dataset.datas.loc[imageindex]['image']
 
         img = image_select(
             label="Select a image",
