@@ -4,4 +4,4 @@ streamlit_folium
 leafmap
 streamlit
 streamlit-option-menu
-
+streamlit_image_select
