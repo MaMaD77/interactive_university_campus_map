@@ -3,10 +3,8 @@ import leafmap.foliumap as leafmap
 import folium
 from streamlit_folium import st_folium
 import pandas as pd
-import numpy as np
-import base64
-import os
 from streamlit_image_select import image_select
+import base64
 
 
 def app():
@@ -17,13 +15,16 @@ def app():
         "assets/maps/home.geojson"))
     m.add_layer(fg)
 
-    dataset = pd.read_json(
-        "assets/data/home.json")
+    dataset = pd.read_json("assets/data/home.json")
 
     for data in dataset.datas:
-        popup_content = f'<img src="{data["image"]}" style="width:190px;height:150px;border-radius: 5px;"><br><b>{data["building_name"]}</b>'
+        with open(data['image'], "rb") as f:
+            image_data = f.read()
+        encoded_image = base64.b64encode(image_data).decode('utf-8')
+
+        popup_content = f'<img src="data:image/png;base64,{encoded_image}" style="width:190px;height:150px;border-radius: 5px;"><br><b>{data["building_name"]}</b>'
         popup = folium.Popup(popup_content, max_width=200)
-        folium.Marker(location=[data['latitude'], data['longitude']], popup=popup, icon=folium.Icon(
+        folium.Marker(location=[data['latitude'], data['longitude']], popup=popup, tooltip=data['building_name'], icon=folium.Icon(
             color='blue', icon='graduation-cap', prefix='fa')).add_to(m)
 
     out = st_folium(
