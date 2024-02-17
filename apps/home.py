@@ -25,7 +25,7 @@ def app():
         popup_content = f'<img src="data:image/png;base64,{encoded_image}" style="width:190px;height:150px;border-radius: 5px;"><br><b>{data["building_name"]}</b>'
         popup = folium.Popup(popup_content, max_width=200)
         folium.Marker(location=[data['latitude'], data['longitude']], popup=popup, tooltip=data['building_name'], icon=folium.Icon(
-            color='blue', icon='graduation-cap', prefix='fa')).add_to(m)
+            color=data['icon_bg_color'], icon=data['icon'], prefix='fa')).add_to(m)
 
     out = st_folium(
         fig=m,
@@ -39,13 +39,20 @@ def app():
         selectedData = get_value_by_lat_lng(
             dataset.datas, index['lat'], index['lng'])
 
-        img = image_select(
-            label="Select a image",
-            images=selectedData['images'],
-        )
+        img = None
+        if (len(selectedData['images']) > 1):
+            img = image_select(
+                label="Select an image",
+                images=selectedData['images'],
+            )
 
-        if img:
+        if img != None:
             st.image(img)
+        else:
+            st.image(selectedData['image'])
+
+        st.header(selectedData['building_name'], divider='rainbow')
+        st.markdown(selectedData['description'])
 
         for department in selectedData['departments']:
             st.header(department['name'], divider='rainbow')
