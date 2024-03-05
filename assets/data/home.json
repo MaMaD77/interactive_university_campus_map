@@ -70,7 +70,6 @@
       "images": [
         "assets/images/b2-1.png",
         "assets/images/b2-2.png",
-        "assets/images/b2-3.png",
         "assets/images/b2-4.png"
       ],
       "departments": [
@@ -203,11 +202,7 @@
       "icon": "graduation-cap",
       "icon_bg_color": "blue",
       "image": "assets/images/b5-1.png",
-      "images": [
-        "assets/images/b5-1.png",
-        "assets/images/b5-2.png",
-        "assets/images/b5-3.png"
-      ],
+      "images": ["assets/images/b5-1.png", "assets/images/b5-2.png"],
       "departments": [
         {
           "name": "DEPARTMENT OF PUBLIC ADMINISTRATION",
@@ -227,7 +222,6 @@
       "image": "assets/images/b1-1.png",
       "images": [
         "assets/images/b1-1.png",
-        "assets/images/b1-2.png",
         "assets/images/b1-3.png",
         "assets/images/b1-4.png"
       ],
@@ -252,13 +246,13 @@
     {
       "index": 8,
       "building_name": "Art House",
-      "description": "Art House Description",
+      "description": "",
       "latitude": 36.17343,
       "longitude": 43.96695,
       "icon": "tree",
       "icon_bg_color": "green",
       "image": "assets/images/art.png",
-      "images": ["assets/images/art.png"],
+      "images": ["assets/images/art.png", "assets/images/art.jpg"],
       "departments": []
     },
     {
@@ -283,10 +277,10 @@
       "index": 10,
       "building_name": "Vendom",
       "description": "Vendom Description",
-      "latitude": 36.17075,
-      "longitude": 43.96593,
+      "latitude": 36.17084,
+      "longitude": 43.96571,
       "icon": "coffee",
-      "icon_bg_color": "green",
+      "icon_bg_color": "red",
       "image": "assets/images/center-b1-1.png",
       "images": [
         "assets/images/center-b1-1.png",
@@ -348,6 +342,84 @@
         "assets/images/folklore-5.png",
         "assets/images/folklore-6.png"
       ],
+      "departments": []
+    },
+    {
+      "index": 15,
+      "building_name": "Chocolate Saray",
+      "description": "",
+      "latitude": 36.17276,
+      "longitude": 43.9652,
+      "icon": "coffee",
+      "icon_bg_color": "red",
+      "image": "assets/images/choklet-1.jpg",
+      "images": ["assets/images/choklet-1.jpg", "assets/images/choklet-2.jpg"],
+      "departments": []
+    },
+    {
+      "index": 15,
+      "building_name": "Shusha",
+      "description": "",
+      "latitude": 36.17059,
+      "longitude": 43.96641,
+      "icon": "coffee",
+      "icon_bg_color": "red",
+      "image": "assets/images/shusha.jpg",
+      "images": ["assets/images/shusha.jpg"],
+      "departments": []
+    },
+    {
+      "index": 16,
+      "building_name": "Football Field",
+      "description": "",
+      "latitude": 36.17245,
+      "longitude": 43.96738,
+      "icon": "soccer-ball-o",
+      "icon_bg_color": "purple",
+      "image": "assets/images/football-1.jpg",
+      "images": [
+        "assets/images/football-1.jpg",
+        "assets/images/football-2.jpg"
+      ],
+      "departments": []
+    },
+    {
+      "index": 17,
+      "building_name": "Football Field",
+      "description": "",
+      "latitude": 36.17209,
+      "longitude": 43.96855,
+      "icon": "soccer-ball-o",
+      "icon_bg_color": "purple",
+      "image": "assets/images/football-3.jpg",
+      "images": [
+        "assets/images/football-3.jpg",
+        "assets/images/football-4.jpg"
+      ],
+      "departments": []
+    },
+    {
+      "index": 18,
+      "building_name": "Accounting Building",
+      "description": "",
+      "latitude": 36.17176,
+      "longitude": 43.96513,
+      "icon": "dollar",
+      "icon_bg_color": "green",
+      "image": "assets/images/accounting.png",
+      "images": ["assets/images/accounting.png"],
+      "departments": []
+    },
+    {
+      "index": 19,
+      "building_name": "Collage",
+      "description": "",
+      "latitude": 36.17089,
+      "longitude": 43.96775,
+      "icon": "graduation-cap",
+      "icon_bg_color": "blue",
+      "image": "assets/images/collage.jpg",
+      "images": ["assets/images/collage.jpg"],
       "departments": []
     }
   ]

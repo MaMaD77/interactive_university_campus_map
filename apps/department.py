@@ -12,10 +12,10 @@ def app():
 
     fg = folium.FeatureGroup(name="State bounds")
     fg.add_child(folium.features.GeoJson(
-        "assets/maps/home.geojson"))
+        "assets/maps/departments.geojson"))
     m.add_layer(fg)
 
-    dataset = pd.read_json("assets/data/home.json")
+    dataset = pd.read_json("assets/data/departments.json")
 
     for data in dataset.datas:
         with open(data['image'], "rb") as f:

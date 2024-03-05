@@ -1,0 +1,129 @@
+{
+  "datas": [
+    {
+      "index": 8,
+      "building_name": "Art House",
+      "description": "",
+      "latitude": 36.17343,
+      "longitude": 43.96695,
+      "icon": "tree",
+      "icon_bg_color": "green",
+      "image": "assets/images/art.png",
+      "images": ["assets/images/art.png", "assets/images/art.jpg"],
+      "departments": []
+    },
+    {
+      "index": 9,
+      "building_name": "Cihan University",
+      "description": "Cihan University Description",
+      "latitude": 36.17164,
+      "longitude": 43.96585,
+      "icon": "flag",
+      "icon_bg_color": "green",
+      "image": "assets/images/center-1.png",
+      "images": [
+        "assets/images/center-1.png",
+        "assets/images/center-2.png",
+        "assets/images/center-3.png",
+        "assets/images/center-4.png",
+        "assets/images/center-5.png"
+      ],
+      "departments": []
+    },
+    {
+      "index": 10,
+      "building_name": "Vendom",
+      "description": "Vendom Description",
+      "latitude": 36.17084,
+      "longitude": 43.96571,
+      "icon": "coffee",
+      "icon_bg_color": "red",
+      "image": "assets/images/center-b1-1.png",
+      "images": [
+        "assets/images/center-b1-1.png",
+        "assets/images/center-b1-2.png",
+        "assets/images/center-b1-3.png"
+      ],
+      "departments": []
+    },
+    {
+      "index": 11,
+      "building_name": "Center",
+      "description": "Description",
+      "latitude": 36.17105,
+      "longitude": 43.96639,
+      "icon": "tree",
+      "icon_bg_color": "green",
+      "image": "assets/images/center-b3.png",
+      "images": [],
+      "departments": []
+    },
+    {
+      "index": 12,
+      "building_name": "Center",
+      "description": "Description",
+      "latitude": 36.17212,
+      "longitude": 43.96629,
+      "icon": "tree",
+      "icon_bg_color": "green",
+      "image": "assets/images/center-b5.png",
+      "images": [],
+      "departments": []
+    },
+    {
+      "index": 13,
+      "building_name": "Center",
+      "description": "Description",
+      "latitude": 36.17035,
+      "longitude": 43.96594,
+      "icon": "tree",
+      "icon_bg_color": "green",
+      "image": "assets/images/center-b8.png",
+      "images": [],
+      "departments": []
+    },
+    {
+      "index": 14,
+      "building_name": "Folklore",
+      "description": "Description",
+      "latitude": 36.17049,
+      "longitude": 43.96691,
+      "icon": "tree",
+      "icon_bg_color": "green",
+      "image": "assets/images/folklore-1.png",
+      "images": [
+        "assets/images/folklore-1.png",
+        "assets/images/folklore-2.png",
+        "assets/images/folklore-3.png",
+        "assets/images/folklore-4.png",
+        "assets/images/folklore-5.png",
+        "assets/images/folklore-6.png"
+      ],
+      "departments": []
+    },
+    {
+      "index": 15,
+      "building_name": "Chocolate Saray",
+      "description": "",
+      "latitude": 36.17276,
+      "longitude": 43.9652,
+      "icon": "coffee",
+      "icon_bg_color": "red",
+      "image": "assets/images/choklet-1.jpg",
+      "images": ["assets/images/choklet-1.jpg", "assets/images/choklet-2.jpg"],
+      "departments": []
+    },
+    {
+      "index": 15,
+      "building_name": "Shusha",
+      "description": "",
+      "latitude": 36.17059,
+      "longitude": 43.96641,
+      "icon": "coffee",
+      "icon_bg_color": "red",
+      "image": "assets/images/shusha.jpg",
+      "images": ["assets/images/shusha.jpg"],
+      "departments": []
+    }
+  ]
+}

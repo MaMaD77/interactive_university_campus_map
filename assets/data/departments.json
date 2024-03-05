@@ -70,7 +70,6 @@
       "images": [
         "assets/images/b2-1.png",
         "assets/images/b2-2.png",
-        "assets/images/b2-3.png",
         "assets/images/b2-4.png"
       ],
       "departments": [
@@ -203,11 +202,7 @@
       "icon": "graduation-cap",
       "icon_bg_color": "blue",
       "image": "assets/images/b5-1.png",
-      "images": [
-        "assets/images/b5-1.png",
-        "assets/images/b5-2.png",
-        "assets/images/b5-3.png"
-      ],
+      "images": ["assets/images/b5-1.png", "assets/images/b5-2.png"],
       "departments": [
         {
           "name": "DEPARTMENT OF PUBLIC ADMINISTRATION",
@@ -227,7 +222,6 @@
       "image": "assets/images/b1-1.png",
       "images": [
         "assets/images/b1-1.png",
-        "assets/images/b1-2.png",
         "assets/images/b1-3.png",
         "assets/images/b1-4.png"
       ],
@@ -248,6 +242,18 @@
           "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/department-of-translation/"
         }
       ]
+    },
+    {
+      "index": 19,
+      "building_name": "Collage",
+      "description": "",
+      "latitude": 36.17089,
+      "longitude": 43.96775,
+      "icon": "graduation-cap",
+      "icon_bg_color": "blue",
+      "image": "assets/images/collage.jpg",
+      "images": ["assets/images/collage.jpg"],
+      "departments": []
     }
   ]
 }
