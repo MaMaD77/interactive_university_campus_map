@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-# import your app modules here
 from apps import department, home, centers, sport, administration
 
 st.set_page_config(page_title="Cihan University Campus",

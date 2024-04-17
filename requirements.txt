@@ -5,3 +5,4 @@ leafmap
 streamlit
 streamlit-option-menu
 streamlit_image_select
+base64
