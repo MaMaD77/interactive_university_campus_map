@@ -8,7 +8,7 @@ st.set_page_config(page_title="Cihan University Campus",
 apps = [
     {"func": home.app, "title": "Home", "icon": "house"},
     {"func": department.app, "title": "Departments", "icon": "buildings"},
-    {"func": centers.app, "title": "Centers", "icon": "tree"},
+    {"func": centers.app, "title": "Centers & Cafes", "icon": "tree"},
     {"func": sport.app, "title": "Sport", "icon": "dribbble"},
     {"func": administration.app, "title": "Administration",
         "icon": "journal-bookmark-fill"},

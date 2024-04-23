@@ -1,9 +1,10 @@
 {
   "datas": [
     {
-      "index": 1,
       "building_name": "Building 9",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17326278,
       "longitude": 43.96545873,
       "icon": "graduation-cap",
@@ -18,50 +19,46 @@
       "departments": [
         {
           "name": "DEPARTMENT OF COMPUTER SCIENCE",
-          "description": "Department of Computer Science is one of the important departments at Cihan University. It was established in 2007 since the founding of the university. It is concerned with theoretical and practical methods of processing and communicating information by means of computers. Department of Computer Science accepts graduates of junior high school Science branch.The Period of study at this major is four years and graduates are awarded the degree of the Bachelor of Computer Science. Our department continues to stress on the quality of education. The department has qualified academic staff in most important areas in Computer Science, with a learning environment where leading-edge technology takes place on a daily basis. Therefore, the graduates qualify for the transition to the labour market successfully.",
-          "link": "https://cihanuniversity.edu.iq/college-of-science/computer-science-department/"
+          "link": "https://cihanuniversity.edu.iq/college-of-science/computer-science-department/",
+          "contact": "+964 7501549514"
         },
         {
           "name": "COLLEGE OF DENTISTRY",
-          "description": "College of Dentistry at Cihan University – Erbil established in 2022. This college accepts high school graduates. The duration of study in this college is five years. The college follows the Bologna Process, in which courses are supervised by local and international teachers and staff.",
-          "link": "https://cihanuniversity.edu.iq/college-of-dentistry/"
+          "link": "https://cihanuniversity.edu.iq/college-of-dentistry/",
+          "contact": "+964 7509820504"
         },
         {
           "name": "COLLEGE OF PHARMACY",
-          "description": "College of Pharmacy at Cihan University-Erbil was established in 2022, and the education system is based on Bologna, which is a five-year program (Ten semesters). After completion of the programs, the graduate will be awarded the degree of B.Sc. in Pharmacy.Our mission and Vision reflect the values that define the unique identity and character of our University. College of Pharmacy is a new college at the Cihan University-Erbil that enrols undergraduate five academic years. This program will offer the student a Bachelor degree (B.Sc. Pharmacy), conditioned with successful modules in all course, including the final advanced pharmacy practice experience with total ECTS 300",
-          "link": "https://cihanuniversity.edu.iq/college-of-dentistry/"
+          "link": "https://cihanuniversity.edu.iq/college-of-dentistry/",
+          "contact": "+964 7509920504"
         },
         {
           "name": "DEPARTMENT OF ARCHITECTURAL ENGINEERING",
-          "description": "Department of Architectural Engineering was founded in the academic year 2009-2010. The department aims to offer an architectural education that is technically contemporary. At the same time, it is rooted in the contextual and regional environments. The curriculum equips students with theoretical and practical skills and keeps them attuned to the social, cultural, and economic contexts. After graduation, students are ready for the challenges of the market both as designers and as architectural engineers who understand sustainable design and the construction and technical requirements in both Iraq and the surrounding region of building industry, our students our ambassadors, after five years of study they become our peers .besides, a department provides opportunities for locale training while maintaining international standards of architectural engineering education.",
-          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-architectural/"
-        },
-        {
-          "name": "DEPARTMENT OF ARCHITECTURAL ENGINEERING",
-          "description": "Department of Architectural Engineering was founded in the academic year 2009-2010. The department aims to offer an architectural education that is technically contemporary. At the same time, it is rooted in the contextual and regional environments. The curriculum equips students with theoretical and practical skills and keeps them attuned to the social, cultural, and economic contexts. After graduation, students are ready for the challenges of the market both as designers and as architectural engineers who understand sustainable design and the construction and technical requirements in both Iraq and the surrounding region of building industry, our students our ambassadors, after five years of study they become our peers .besides, a department provides opportunities for locale training while maintaining international standards of architectural engineering education.",
-          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-architectural/"
+          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-architectural/",
+          "contact": "+964 7509920504"
         },
         {
           "name": "DEPARTMENT OF INFORMATICS AND SOFTWARE ENGINEERING",
-          "description": "The department of Informatics and software engineering is part of the Faculty of Engineering College in Cihan University. Since its establishment in 2021 the department sought to achieve excellent in all areas. The department role focus on applying the principles of engineering to software development includes analyzing and modifying existing software as well as designing, constructing and testing end-user applications that meet user needs all through software programming languages. The role of the department also focuses on the complex and large software systems that make up the core systems for an organization. There are many roles under the umbrella of software engineering, but the two main ones are Applications Software Developer and Systems Software Developer. Software engineers also tend to specialize in specific areas including databases, cloud, or operating systems such as iOS and Android.",
-          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-informatics-and-software-engineering/"
+          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-informatics-and-software-engineering/",
+          "contact": "+964 07501723742"
         },
         {
           "name": "DEPARTMENT OF CIVIL ENGINEERING",
-          "description": "Civil Engineering Department at Cihan University offers a 4-year Bachelor program designed to train engineering students to have a solid back ground in fundamental sciences and essential engineering concepts, reinforced with extensive field applications. During the course of study the Civil Engineering Undergraduate Program offers specialized courses on 6 main branches of studies, Structural Engineering, Materials of Construction, Geotechnical Engineering, Hydraulics Engineering, Transportation Engineering and Construction Management. The Civil Engineering program prepares the graduates to design, plan, build and operate elements of Structures and Infrastructures systems. Students are required to complete Laboratory Assignments, field Projects, summer training, as well as milestone graduate projects. The department is equipped with sophisticated laboratory Instruments to conduct both graduate and undergraduate tests, along with highly qualified and well experienced faculty members.",
-          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-civil-engineering/"
+          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-civil-engineering/",
+          "contact": "+964 7518078466"
         },
         {
           "name": "DEPARTMENT OF INTERIOR DESIGN ENGINEERING",
-          "description": "Department of Interior Design Engineering was established in the academic year 2022-2023. The purpose of the Interior Design Engineering program is to develop and prepare students for entry into a career in interior design or into postgraduate studies, by enabling them to apply integrated knowledge and conceptual thinking skills to innovatively solve a range of interior design problems. The Interior Design program at Cihan University-Erbil is committed to the development of a theoretical basis for the study and practice of design where creativity is linked with and runs parallel to theory. The program's educational agenda is to challenge the accepted assumptions about Interior Design and test new ideas through design project work. This programme will equip students with a thorough foundation in the knowledge of design practice and theory, to conduct design criticism and research. Interior Designers engage with a range of interior spaces to create innovative spatial solutions with a thorough knowledge of building technology, materials and human environment needs. The Department of Interior Design offers an undergraduate Bachelor’s degree. The Department’s facilities include designated studio and a centrally-located specialist computer studio.",
-          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-interior-design-eng/"
+          "link": "https://cihanuniversity.edu.iq/college-of-engineering/department-of-interior-design-eng/",
+          "contact": "+964 7501723769"
         }
       ]
     },
     {
-      "index": 2,
       "building_name": "Building 2",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17194,
       "longitude": 43.96554,
       "icon": "graduation-cap",
@@ -74,21 +71,17 @@
       ],
       "departments": [
         {
-          "name": "Comuter Science",
-          "description": "Comuter Science description",
-          "link": "Comuter Science link"
-        },
-        {
-          "name": "Comuter Science 2",
-          "description": "Comuter Science description2",
-          "link": "Comuter Science link2"
+          "name": "DEPARTMENT OF LAW",
+          "link": "https://cihanuniversity.edu.iq/college-of-law-and-international-relations/department-of-law/",
+          "contact": "+964 7507381000"
         }
       ]
     },
     {
-      "index": 3,
       "building_name": "Building 8",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.16993,
       "longitude": 43.96636,
       "icon": "graduation-cap",
@@ -102,42 +95,38 @@
       "departments": [
         {
           "name": "DEPARTMENT OF ACCOUNTING",
-          "description": "Accounting Department at Cihan University-Erbil was established in 2007, it has been developing since then. This department accepts High School graduates of three tracks: Scientific, Humanities, and Vocational. The admission to the department is conditioned that students have enough knowledge of English language since all subjects are taught in the English language. In addition to that, students should know how to use the Computer. All students admitted at this department will have to take an English language intensive course based on an Eight - hour’s weekly schedule for two consecutive Semesters in order to develop their English language skills. The department introduces Accounting knowledge according to International Accounting Standards, Accounting Information Systems, Advanced Financial Accounting as well as Electronic Accounting Packages. The study in this Department consists of two Semesters per year and for four years at the end of that Students will have gained a B.Sc. in Accounting Sciences that qualifies them to work in different Private and Governmental Economical Sectors.",
-          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-accounting/"
+          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-accounting/",
+          "contact": "+964 7501549673"
         },
         {
           "name": "DEPARTMENT OF BUSINESS ADMINISTRATION",
-          "description": "Business Administration program at Cihan University-Erbil is essential for today’s challenging business environment. This program is designed to provide the necessary knowledge and skills to business students including analyzing techniques and tools to solve different business problems, formulation and implementing business strategies as well as understanding the managerial functions on: Business strategy levels and operations. Confident leaders who are superb problem-solvers plus skilled managers equipped with analysis abilities and creative thinking are the main products of this program. Without the right role of excellent managers, in a business organization, it will definitely lead to business failure. The department accepts graduates of secondary schools (scientific and literary) and graduates from trade secondary schools.",
-          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/business-administration-department/"
+          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/business-administration-department/",
+          "contact": "+964 7507381000"
         },
         {
           "name": "DEPARTMENT OF PUBLIC ADMINISTRATION",
-          "description": "The Department of Public Administration offers a comprehensive study of the relevant aspects of public administration systems. The department course includes the essential requirements that enable students to enter public administration scope and management of public and mixed institutions, so that they can create and provide contemporary solutions to improve, develop and manage the public sector locally, regionally and internationally. As it can be observed that the advancement of the nations, the level of progress of society and the quality of life rely on the excellence of public administration of the country. The Department of public administration accepts graduates from high school in both (science and arts) sections that meets the course entry requirements.",
-          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/"
+          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/",
+          "contact": "+964 7507381000"
         },
         {
           "name": "DEPARTMENT OF MEDIA",
-          "description": "It is an academic department of the college of Arts and Letters at Cihan University. It was established in the academic year 2013-2014. It aims at teaching media and its various arts as well as following-up the latest professional and technical developments in mass communication in order to have highly qualified graduates who can practice the profession of media in its different fields.",
-          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/department-of-media/"
-        },
-        {
-          "name": "DEPARTMENT OF LAW",
-          "description": "The establishment of the department of law at Cihan university coincided with the establishment of the university itself in 2007, It has included a department of law for both the morning and evening studies, The period of time required for the study in the college is five years, after which the graduate is awarded bachelor's certificate in law. the college depends upon well-developed curricula in both of these departments, and in various specializations to be taught in these two departments, in order to provide the society with highly-qualified graduates to work in the field of law , whether as lawyers, investigators, judges, or any other role in the judiciary and legal spheres in addition to other highly specialized sectors in the field of the international and diplomatic relations. The college also aims at preparing students to apply for various jobs in the field of diplomatic corps, as well as administering public relations in both private and public institutions.",
-          "link": "https://cihanuniversity.edu.iq/college-of-law-and-international-relations/department-of-law/"
+          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/department-of-media/",
+          "contact": "+964 7501788207"
         },
         {
           "name": "DEPARTMENT OF INTERNATIONAL RELATIONS AND DIPLOMACY",
-          "description": "International relations are the most important elements that countries depend on in strengthening their relationships with the outside world. Therefore,The Department of International Relations and Diplomacy has a special importance and represents an academic body that adopts developed scientific methods. The departments introduces scientific and contemporary methods which are capable of creating a diplomatic generation that has the necessary skills to work in political institution, embassies, consulates and subsidiary bodies.",
-          "link": "https://cihanuniversity.edu.iq/college-of-law-and-international-relations/department-of-international-relations-and-diplomatic/"
+          "link": "https://cihanuniversity.edu.iq/college-of-law-and-international-relations/department-of-international-relations-and-diplomatic/",
+          "contact": "+964 7501788208"
         }
       ]
     },
     {
-      "index": 4,
       "building_name": "Building 3",
       "description": "",
-      "latitude": 36.17143,
-      "longitude": 43.96619,
+      "link": "#",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17146,
+      "longitude": 43.9661,
       "icon": "graduation-cap",
       "icon_bg_color": "blue",
       "image": "assets/images/b3-1.png",
@@ -150,20 +139,21 @@
       "departments": [
         {
           "name": "DEPARTMENT OF MEDICAL MICROBIOLOGY",
-          "description": "Medical Microbiology department in Cihan University- Erbil was established in 2009-2010. The Department offers a four years program that awards the students a bachelor degree in Medical Microbiology (B.Sc. Medical Microbiology). Our community dedicated to research, teaching, and provide best environment for the students to learn and explore an exciting, and diverse fields starting from cells that are the basic unit of life to different living things having the ability to acquire and transform energy. The goals of the biology department are attained through a variety of different measures, including lectures, debates, laboratory experiments, field studies, seminars, and guest speakers. Students may engage in research in different manners within the course structure or independently under the guidance of a faculty member. The program also provides a thorough education in the history of scientific discovery in Medical Microbiology as well as technical skills that needed for running contemporary medical microbiology research. The department occupies eight laboratories that provided with state of the art equipment that helps the students to conduct experiments in chemistry, botany, zoology, microbiology, Genetics and a variety of biological and biomedical sciences as well as medically related courses such as pathogenic bacteria, basic and clinical hematology, mycology, basic and medical virology, parasitology, immunology and medical laboratory analysis techniques.",
-          "link": "https://cihanuniversity.edu.iq/college-of-science/medical-microbiology-department/"
+          "link": "https://cihanuniversity.edu.iq/college-of-science/medical-microbiology-department/",
+          "contact": "+964 7501723927"
         },
         {
           "name": "DEPARTMENT OF BIOMEDICAL SCIENCES",
-          "description": "The Department of Biomedical Sciences at Cihan University – Erbil was established in 2019. It offers a four-year B.Sc. in Biomedical Sciences. This department aspires to produce scientists in the field of Biomedical Sciences and professional healthcare workers who are able to lead the healthcare system in the country.",
-          "link": "https://cihanuniversity.edu.iq/department-of-biomedical-sciences/"
+          "link": "https://cihanuniversity.edu.iq/department-of-biomedical-sciences/",
+          "contact": "+964 7501794637"
         }
       ]
     },
     {
-      "index": 5,
       "building_name": "Building 4",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17198,
       "longitude": 43.96597,
       "icon": "graduation-cap",
@@ -173,30 +163,31 @@
       "departments": [
         {
           "name": "DEPARTMENT OF MEDICAL LABORATORY SCIENCE",
-          "description": "The Department of Medical Laboratory Science has a four-year program that awards a B.Sc. in Medical Laboratory Science. Students are trained by experts in several domains of biology, chemistry, and other basic sciences,by focusing on medical side. In addition to the practical side, the department emphasis on the ethics of medical practice and enabling students to use their medical skills that they have acquired through residency in hospitals and medical laboratories.",
-          "link": "https://cihanuniversity.edu.iq/department-of-medical-laboratory-science/"
+          "link": "https://cihanuniversity.edu.iq/department-of-medical-laboratory-science/",
+          "contact": "+964 7509920504"
         },
         {
           "name": "DEPARTMENT OF PHYSIOTHERAPY",
-          "description": "The Department of Physiotherapy established in year 2017-2018, as a part of Faculty of Health Technology at Cihan University- Erbil, and it is the first and only Department in Private Universities in Kurdistan Region of Iraq. It provides a major focus for a health care profession dedicated for the improvement of overall quality of life, prevention of disability, and promotion of positive health.",
-          "link": "https://cihanuniversity.edu.iq/health-technology-college/physiotherapy-department/"
+          "link": "https://cihanuniversity.edu.iq/health-technology-college/physiotherapy-department/",
+          "contact": "+964 7501549560"
         },
         {
           "name": "DEPARTMENT OF NUTRITION AND DIETETICS",
-          "description": "The Department of Nutrition and Dietetics at Cihan University was established in 2017 as the only department in all Iraqi universities that award a Bachelor's degree in Nutrition and Dietetics. The program offers students a solid knowledge base in clinical dietetics, human nutrition, food science, and public health throughout the four-year program. The students will be taught to a high level the importance of the link between food, nutrition, and human health. As food is an essential part of the therapeutic process of any disease, nutrition and dietetics is an application of food science, therapeutic nutrition, and diet programs to prevent and treat diet-related diseases to enhance the health of the individual and society.The curriculum is designed to prepare graduates with the knowledge and skills necessary for progressing toward foundational for a variety of professional careers in nutrition, dietetics, and food services. The course has been designed following different universities in developed and developing countries, ensuring you are taught to a national and internationally recognized standard.",
-          "link": "https://cihanuniversity.edu.iq/health-technology-college/department-of-nutrition/"
+          "link": "https://cihanuniversity.edu.iq/health-technology-college/department-of-nutrition/",
+          "contact": "+964 7501788177"
         },
         {
           "name": "DEPARTMENT OF COMMUNITY HEALTH",
-          "description": "The Department of Community Healthhas a four-year program that awards a B.Sc. in Community Health. The Department aspires to produce professional health care workers who lead the health care system in the country.",
-          "link": "https://cihanuniversity.edu.iq/health-technology-college/department-of-community-health/"
+          "link": "https://cihanuniversity.edu.iq/health-technology-college/department-of-community-health/",
+          "contact": "+964 7501549655"
         }
       ]
     },
     {
-      "index": 6,
       "building_name": "Building 5",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17181,
       "longitude": 43.96647,
       "icon": "graduation-cap",
@@ -206,15 +197,16 @@
       "departments": [
         {
           "name": "DEPARTMENT OF PUBLIC ADMINISTRATION",
-          "description": "The Department of Public Administration offers a comprehensive study of the relevant aspects of public administration systems. The department course includes the essential requirements that enable students to enter public administration scope and management of public and mixed institutions, so that they can create and provide contemporary solutions to improve, develop and manage the public sector locally, regionally and internationally. As it can be observed that the advancement of the nations, the level of progress of society and the quality of life rely on the excellence of public administration of the country. The Department of public administration accepts graduates from high school in both (science and arts) sections that meets the course entry requirements.",
-          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/"
+          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/",
+          "contact": "+964 7507381000"
         }
       ]
     },
     {
-      "index": 7,
       "building_name": "Building 1",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17124,
       "longitude": 43.96584,
       "icon": "graduation-cap",
@@ -228,27 +220,41 @@
       "departments": [
         {
           "name": "DEPARTMENT OF PHYSICAL EDUCATION AND SPORT SCIENCES",
-          "description": "It is an academic department of the college of Education at Cihan University. It was established in the academic year 2016-2017. It aims to teach sport and its various arts as well as to follow-up with the latest professional and technical developments in sport sciences in order to graduate a highly qualified generation who can practice the professional sport in its different fields.",
-          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/sport-department/"
+          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/sport-department/",
+          "contact": "+964 7504478338"
         },
         {
           "name": "DEPARTMENT OF GENERAL EDUCATION",
-          "description": "This program is designed to prepare educational leaders and teachers who are able to face the challenges of renewed learning environment.  It prepares the faculty according to the framework of the latest theories of teaching and learning, including academic and practical knowledge in the prospects of specialized educational curricular. Besides using standardized levels of modern educational technology consistent with social awareness of working in educational institutions in both public and private sector. The department accepts graduates of high school from both (scientific and literary) branches. The duration of the study is four years after which the students receive a certificate of Bachelor in general education.",
-          "link": "https://cihanuniversity.edu.iq/college-of-education/department-of-education/"
+          "link": "https://cihanuniversity.edu.iq/college-of-education/department-of-education/",
+          "contact": "+964 7501549661"
         },
         {
           "name": "DEPARTMENT OF TRANSLATION",
-          "description": "The Department of Translation at Cihan University-Erbil as one of the scientific departments of the College of Arts and Letters was established in 2013-2014. The students are given different materials in Translation Studies, Language and Linguistics, and Literature. The graduates are trained as professional translators, English teachers, and employees wherever translation is needed. They are also qualified to continue their higher education for the M.A. and Ph.D. in Translation Studies. The textbooks and materials have been carefully chosen to cope with the latest developments of international universities worldwide. The staff members work together to create a typical learning and teaching atmosphere as one team and family.",
-          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/department-of-translation/"
+          "link": "https://cihanuniversity.edu.iq/college-of-arts-and-letters/department-of-translation/",
+          "contact": "+964 7501788204"
         }
       ]
     },
     {
-      "index": 8,
+      "building_name": "Collage",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17089,
+      "longitude": 43.96775,
+      "icon": "graduation-cap",
+      "icon_bg_color": "blue",
+      "image": "assets/images/collage.jpg",
+      "images": ["assets/images/collage.jpg"],
+      "departments": []
+    },
+    {
       "building_name": "Art House",
       "description": "",
-      "latitude": 36.17343,
-      "longitude": 43.96695,
+      "link": "#",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17324,
+      "longitude": 43.96726,
       "icon": "tree",
       "icon_bg_color": "green",
       "image": "assets/images/art.png",
@@ -256,9 +262,10 @@
       "departments": []
     },
     {
-      "index": 9,
       "building_name": "Cihan University",
-      "description": "Cihan University Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17164,
       "longitude": 43.96585,
       "icon": "flag",
@@ -274,9 +281,10 @@
       "departments": []
     },
     {
-      "index": 10,
       "building_name": "Vendom",
-      "description": "Vendom Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17084,
       "longitude": 43.96571,
       "icon": "coffee",
@@ -290,9 +298,10 @@
       "departments": []
     },
     {
-      "index": 11,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17105,
       "longitude": 43.96639,
       "icon": "tree",
@@ -302,9 +311,10 @@
       "departments": []
     },
     {
-      "index": 12,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17212,
       "longitude": 43.96629,
       "icon": "tree",
@@ -314,9 +324,10 @@
       "departments": []
     },
     {
-      "index": 13,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17035,
       "longitude": 43.96594,
       "icon": "tree",
@@ -326,9 +337,10 @@
       "departments": []
     },
     {
-      "index": 14,
       "building_name": "Folklore",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17049,
       "longitude": 43.96691,
       "icon": "tree",
@@ -345,9 +357,10 @@
       "departments": []
     },
     {
-      "index": 15,
       "building_name": "Chocolate Saray",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17276,
       "longitude": 43.9652,
       "icon": "coffee",
@@ -357,9 +370,10 @@
       "departments": []
     },
     {
-      "index": 15,
       "building_name": "Shusha",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17059,
       "longitude": 43.96641,
       "icon": "coffee",
@@ -369,8 +383,152 @@
       "departments": []
     },
     {
-      "index": 16,
-      "building_name": "Football Field",
+      "building_name": "LANGUAGE CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/language_center/",
+      "contact": "07504729757",
+      "latitude": 36.17121,
+      "longitude": 43.96577,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/1-1.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "ICDL & IT Center",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/icdl/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17177,
+      "longitude": 43.96635,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/01.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "CAREER CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/centers/career-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.16981,
+      "longitude": 43.96619,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/02.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "COMPUTER CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/computer-center/",
+      "contact": "07518078661",
+      "latitude": 36.17201,
+      "longitude": 43.96547,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/03.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "CULTURAL CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/cultural-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17348,
+      "longitude": 43.96692,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/04.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "LEGAL CLINIC CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/centers/legal-clinic-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17184,
+      "longitude": 43.96555,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/05.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "MEDICAL CLINIC",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/medical-clinic/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17149,
+      "longitude": 43.96628,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/06.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL EXCHANGE TRAINING CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-exchange-training-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17189,
+      "longitude": 43.96649,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL EXCHANGE TRAINING CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-exchange-training-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17189,
+      "longitude": 43.96649,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL TRADING ROOM",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-trading-room/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17176,
+      "longitude": 43.96512,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "DEVELOPMENT AND CONSULTATION CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/development-and-consultation-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.1701,
+      "longitude": 43.96652,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/08.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "SPORTS UNIT",
+      "link": "https://cihanuniversity.edu.iq/sports-unit/",
+      "contact": "+964 (750) 7381000",
       "description": "",
       "latitude": 36.17245,
       "longitude": 43.96738,
@@ -384,8 +542,9 @@
       "departments": []
     },
     {
-      "index": 17,
-      "building_name": "Football Field",
+      "building_name": "SPORTS UNIT",
+      "link": "https://cihanuniversity.edu.iq/sports-unit/",
+      "contact": "+964 (750) 7381000",
       "description": "",
       "latitude": 36.17209,
       "longitude": 43.96855,
@@ -399,27 +558,16 @@
       "departments": []
     },
     {
-      "index": 18,
       "building_name": "Accounting Building",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "description": "",
-      "latitude": 36.17176,
-      "longitude": 43.96513,
+      "latitude": 36.17162,
+      "longitude": 43.96517,
       "icon": "dollar",
       "icon_bg_color": "green",
       "image": "assets/images/accounting.png",
       "images": ["assets/images/accounting.png"],
-      "departments": []
-    },
-    {
-      "index": 19,
-      "building_name": "Collage",
-      "description": "",
-      "latitude": 36.17089,
-      "longitude": 43.96775,
-      "icon": "graduation-cap",
-      "icon_bg_color": "blue",
-      "image": "assets/images/collage.jpg",
-      "images": ["assets/images/collage.jpg"],
       "departments": []
     }
   ]

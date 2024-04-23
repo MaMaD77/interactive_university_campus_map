@@ -1,11 +1,12 @@
 {
   "datas": [
     {
-      "index": 8,
       "building_name": "Art House",
       "description": "",
-      "latitude": 36.17343,
-      "longitude": 43.96695,
+      "link": "#",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17324,
+      "longitude": 43.96726,
       "icon": "tree",
       "icon_bg_color": "green",
       "image": "assets/images/art.png",
@@ -13,9 +14,10 @@
       "departments": []
     },
     {
-      "index": 9,
       "building_name": "Cihan University",
-      "description": "Cihan University Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17164,
       "longitude": 43.96585,
       "icon": "flag",
@@ -31,9 +33,10 @@
       "departments": []
     },
     {
-      "index": 10,
       "building_name": "Vendom",
-      "description": "Vendom Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17084,
       "longitude": 43.96571,
       "icon": "coffee",
@@ -47,9 +50,10 @@
       "departments": []
     },
     {
-      "index": 11,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17105,
       "longitude": 43.96639,
       "icon": "tree",
@@ -59,9 +63,10 @@
       "departments": []
     },
     {
-      "index": 12,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17212,
       "longitude": 43.96629,
       "icon": "tree",
@@ -71,9 +76,10 @@
       "departments": []
     },
     {
-      "index": 13,
       "building_name": "Center",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17035,
       "longitude": 43.96594,
       "icon": "tree",
@@ -83,9 +89,10 @@
       "departments": []
     },
     {
-      "index": 14,
       "building_name": "Folklore",
-      "description": "Description",
+      "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17049,
       "longitude": 43.96691,
       "icon": "tree",
@@ -102,9 +109,10 @@
       "departments": []
     },
     {
-      "index": 15,
       "building_name": "Chocolate Saray",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17276,
       "longitude": 43.9652,
       "icon": "coffee",
@@ -114,15 +122,159 @@
       "departments": []
     },
     {
-      "index": 15,
       "building_name": "Shusha",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17059,
       "longitude": 43.96641,
       "icon": "coffee",
       "icon_bg_color": "red",
       "image": "assets/images/shusha.jpg",
       "images": ["assets/images/shusha.jpg"],
+      "departments": []
+    },
+    {
+      "building_name": "LANGUAGE CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/language_center/",
+      "contact": "07504729757",
+      "latitude": 36.17124,
+      "longitude": 43.96582,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/1-1.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "ICDL & IT Center",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/icdl/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17177,
+      "longitude": 43.96635,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/01.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "CAREER CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/centers/career-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.16981,
+      "longitude": 43.96619,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/02.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "COMPUTER CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/computer-center/",
+      "contact": "07518078661",
+      "latitude": 36.17201,
+      "longitude": 43.96547,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/03.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "CULTURAL CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/cultural-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17348,
+      "longitude": 43.96692,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/04.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "LEGAL CLINIC CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/centers/legal-clinic-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.1719,
+      "longitude": 43.96555,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/05.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "MEDICAL CLINIC",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/medical-clinic/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17142,
+      "longitude": 43.96624,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/06.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL EXCHANGE TRAINING CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-exchange-training-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17189,
+      "longitude": 43.96649,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL EXCHANGE TRAINING CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-exchange-training-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17189,
+      "longitude": 43.96649,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "FINANCIAL TRADING ROOM",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/financial-trading-room/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.17176,
+      "longitude": 43.96512,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/07.jpg",
+      "images": [],
+      "departments": []
+    },
+    {
+      "building_name": "DEVELOPMENT AND CONSULTATION CENTER",
+      "description": "",
+      "link": "https://cihanuniversity.edu.iq/development-and-consultation-center/",
+      "contact": "+964 (750) 7381000",
+      "latitude": 36.1701,
+      "longitude": 43.96652,
+      "icon": "graduation-cap",
+      "icon_bg_color": "red",
+      "image": "assets/images/08.jpg",
+      "images": [],
       "departments": []
     }
   ]

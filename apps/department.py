@@ -7,6 +7,77 @@ from streamlit_image_select import image_select
 import base64
 
 
+@st.cache_data
+def load_data():
+    return pd.read_json("assets/data/departments.json")
+
+
+def render_marker(selectedData):
+    url = selectedData['link']
+    url_text = selectedData['building_name']
+    contact = selectedData['contact']
+
+    st.markdown(
+        f'<a href="{url}" target="_blank" style="text-decoration:none;color:white;font-size:35px;font-weight:600">{url_text}</a>', unsafe_allow_html=True)
+    st.markdown(
+        f'<a href="tel:{contact}" target="_blank" style="text-decoration:none;color:white;font-size:25px;font-weight:600">Contact: {contact}</a>', unsafe_allow_html=True)
+
+    st.markdown(selectedData['description'])
+
+    img = image_select(
+        label="Select an image",
+        images=selectedData['images'],
+    ) if len(selectedData['images']) > 1 else None
+
+    st.image(img if img else selectedData['image'])
+
+    divider_rainbow = """
+        <style>
+            p {
+                margin-bottom: 0;
+                line-height: 1.1;
+            }
+            
+            .rainbow-border {
+                position: relative;
+                padding-bottom: 12px;
+                display: block;
+                margin-bottom: 7px;
+            }
+
+            .rainbow-border::after {
+                content: '';
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 2px;
+                background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+                background-size: 200% 200%;
+                animation: rainbow 2s linear infinite;
+            }
+
+            @keyframes rainbow {
+                0% { background-position: 0% 50%; }
+                50% { background-position: 100% 50%; }
+                100% { background-position: 0% 50%; }
+            }
+        </style>
+        <hr class="rainbow">
+        """
+    st.markdown(divider_rainbow, unsafe_allow_html=True)
+
+    for department in selectedData['departments']:
+        d_url = department['link']
+        name = department['name']
+        d_contact = department['contact']
+
+        st.markdown(
+            f'<a href="{d_url}" target="_blank" style="text-decoration:none;color:white;font-size:35px;font-weight:600">{name}</a>', unsafe_allow_html=True)
+        st.markdown(
+            f'<a href="tel:{d_contact}" target="_blank" class="rainbow-border" style="text-decoration:none;color:white;font-size:25px;font-weight:600">Contact: {d_contact}</a>', unsafe_allow_html=True)
+
+
 def app():
     m = leafmap.Map(center=(36.17217, 43.96712), zoom=17.4)
 
@@ -15,7 +86,7 @@ def app():
         "assets/maps/departments.geojson"))
     m.add_layer(fg)
 
-    dataset = pd.read_json("assets/data/departments.json")
+    dataset = load_data()
 
     for data in dataset.datas:
         with open(data['image'], "rb") as f:
@@ -33,30 +104,11 @@ def app():
         height=600,
     )
 
-    if (out['last_object_clicked']):
-
+    if out['last_object_clicked']:
         index = out['last_object_clicked']
         selectedData = get_value_by_lat_lng(
             dataset.datas, index['lat'], index['lng'])
-
-        img = None
-        if (len(selectedData['images']) > 1):
-            img = image_select(
-                label="Select an image",
-                images=selectedData['images'],
-            )
-
-        if img != None:
-            st.image(img)
-        else:
-            st.image(selectedData['image'])
-
-        st.header(selectedData['building_name'], divider='rainbow')
-        st.markdown(selectedData['description'])
-
-        for department in selectedData['departments']:
-            st.header(department['name'], divider='rainbow')
-            st.markdown(department['description'])
+        render_marker(selectedData)
 
 
 def get_value_by_lat_lng(objects, lat, lng):

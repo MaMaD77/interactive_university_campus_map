@@ -1,9 +1,10 @@
 {
   "datas": [
     {
-      "index": 6,
       "building_name": "Building 5",
       "description": "",
+      "link": "#",
+      "contact": "+964 (750) 7381000",
       "latitude": 36.17181,
       "longitude": 43.96647,
       "icon": "graduation-cap",
@@ -13,15 +14,16 @@
       "departments": [
         {
           "name": "DEPARTMENT OF PUBLIC ADMINISTRATION",
-          "description": "The Department of Public Administration offers a comprehensive study of the relevant aspects of public administration systems. The department course includes the essential requirements that enable students to enter public administration scope and management of public and mixed institutions, so that they can create and provide contemporary solutions to improve, develop and manage the public sector locally, regionally and internationally. As it can be observed that the advancement of the nations, the level of progress of society and the quality of life rely on the excellence of public administration of the country. The Department of public administration accepts graduates from high school in both (science and arts) sections that meets the course entry requirements.",
-          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/"
+          "link": "https://cihanuniversity.edu.iq/college-of-administration-and-financial-sciences/department-of-public-administration/",
+          "contact": "+964 7507381000"
         }
       ]
     },
     {
-      "index": 18,
       "building_name": "Accounting Building",
       "description": "",
+      "link": "https://cihanuniversity.edu.iq/about-us/",
+      "contact": "+964 7507381000",
       "latitude": 36.17176,
       "longitude": 43.96513,
       "icon": "dollar",

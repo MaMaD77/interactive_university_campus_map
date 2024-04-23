@@ -1,8 +1,9 @@
 {
   "datas": [
     {
-      "index": 16,
-      "building_name": "Football Field",
+      "building_name": "SPORTS UNIT",
+      "link": "https://cihanuniversity.edu.iq/sports-unit/",
+      "contact": "+964 (750) 7381000",
       "description": "",
       "latitude": 36.17245,
       "longitude": 43.96738,
@@ -16,8 +17,9 @@
       "departments": []
     },
     {
-      "index": 17,
-      "building_name": "Football Field",
+      "building_name": "SPORTS UNIT",
+      "link": "https://cihanuniversity.edu.iq/sports-unit/",
+      "contact": "+964 (750) 7381000",
       "description": "",
       "latitude": 36.17209,
       "longitude": 43.96855,
